@@ -15,3 +15,4 @@ verificador=(costo_producto>70)
 
 if(costo_producto>70):
     print("UD es un comprador excesivo")
+
